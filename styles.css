@@ -1,15 +1,19 @@
+
+/* Üst Kısım Stil */
 .ust-kisim {
     background-color: cadetblue;
     text-align: center;
     padding: 20px;
 }
 
+/* Başlık Stil */
 h1 {
     color: brown;
     margin: 0;
     padding-bottom: 20px;
 }
 
+/* Menü Bağlantıları Stil */
 .nav-links {
     justify-content: center;
 }
@@ -21,16 +25,20 @@ a {
     border-radius: 5px;
 }
 
-h3{
+/* Alt Başlık Stil */
+h3 {
     color: brown;
     border: 10px;
     padding: 20px;
     font-size: 20px;
 }
-body{
+
+/* Genel Gövde Stil */
+body {
     background-color: antiquewhite;
 }
 
+/* Blog Kartları Stil */
 .blog-card {
     background-color: white;
     border-radius: 10px;
@@ -50,19 +58,22 @@ body{
     color: black;
     margin: 15px 0 10px;
 }
-.blog-card a{
+
+.blog-card a {
     color: black;
 }
 
-.alt-bilgi{
+/* Alt Bilgi (Footer) Stil */
+.alt-bilgi {
     background-color: black;
     color: white;
 }
 
+/* Blog Gönderisi Kartı Stil */
 .blog-cardd {
     background-color: white;
     border-radius: 10px;
-    max-width: 800x;
+    max-width: 800px;
     margin: 20px auto;
     padding: 20px;
     text-align: center;
@@ -78,6 +89,7 @@ body{
     color: black;
     margin: 15px 10px;
 }
-.blog-cardd a{
+
+.blog-cardd a {
     color: black;
 }
