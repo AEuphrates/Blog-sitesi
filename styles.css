@@ -1,0 +1,83 @@
+.ust-kisim {
+    background-color: cadetblue;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: brown;
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+.nav-links {
+    justify-content: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+h3{
+    color: brown;
+    border: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+body{
+    background-color: antiquewhite;
+}
+
+.blog-card {
+    background-color: white;
+    border-radius: 10px;
+    max-width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.blog-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.blog-card h4 {
+    color: black;
+    margin: 15px 0 10px;
+}
+.blog-card a{
+    color: black;
+}
+
+.alt-bilgi{
+    background-color: black;
+    color: white;
+}
+
+.blog-cardd {
+    background-color: white;
+    border-radius: 10px;
+    max-width: 800x;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.blog-cardd img {
+    width: 20%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.blog-cardd h4 {
+    color: black;
+    margin: 15px 10px;
+}
+.blog-cardd a{
+    color: black;
+}
